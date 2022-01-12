@@ -2,7 +2,7 @@
   <h1>API de aluguel de carros 💹</h1>
 </div>
 
-<h2 align="center" >Aprimorando o conhecimento<a href="https://stripe.com/en-br">Stripe 💸</a></h2>
+<h2 align="center" >Aprimorando o conhecimento!</h2>
 <h3 align="center">Cada vez mais entusiasmado com desenvolvimento Back-End 💜</h3>
 <hr />
 
